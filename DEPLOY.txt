@@ -1,0 +1,14 @@
+SafeTraq Showcase Website — Static Deploy Package
+================================================
+
+Upload everything in this folder to any static host:
+  - Netlify: drag-and-drop this folder
+  - GitHub Pages: push contents to gh-pages branch
+  - Firebase Hosting: firebase deploy (point public to this folder)
+  - Any web server: copy to your document root (e.g. public_html)
+
+Videos are embedded from YouTube (no large video files included):
+  - App demo: https://www.youtube.com/watch?v=yKIfKa2WjOI
+  - SafeTraq Story: https://www.youtube.com/watch?v=F14LIQCna9k
+
+Entry point: index.html
